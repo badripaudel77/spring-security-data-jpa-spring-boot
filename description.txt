@@ -1,0 +1,6 @@
+Spring Security with Roles
+
+-------------------------------------------------------
+Spring Security and Roles [User, Admin] comma separated
+-------------------------------------------------------
+
